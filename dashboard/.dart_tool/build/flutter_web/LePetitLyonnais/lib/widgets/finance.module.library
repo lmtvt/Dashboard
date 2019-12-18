@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","http|lib/http.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","math"],"hasMain":false}

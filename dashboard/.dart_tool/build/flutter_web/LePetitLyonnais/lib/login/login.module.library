@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","LePetitLyonnais|lib/login/signup.dart","LePetitLyonnais|lib/login/signin.dart","LePetitLyonnais|lib/login/google.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

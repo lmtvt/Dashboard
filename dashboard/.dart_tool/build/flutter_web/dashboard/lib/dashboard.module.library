@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["dashboard|lib/login/auth.dart","firebase|lib/firestore.dart","flutter|lib/material.dart","firebase|lib/firebase.dart","dashboard|lib/widgets/rpicture.dart","dashboard|lib/drawer.dart","dashboard|lib/widgets/finance.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","firebase|lib/firebase.dart","LePetitLyonnais|lib/dashboard.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

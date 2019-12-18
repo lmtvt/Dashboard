@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["LePetitLyonnais|lib/login/auth.dart","firebase|lib/firestore.dart","flutter|lib/material.dart","firebase|lib/firebase.dart","LePetitLyonnais|lib/widgets/rpicture.dart","LePetitLyonnais|lib/drawer.dart","LePetitLyonnais|lib/widgets/finance.dart","LePetitLyonnais|lib/widgets/meteo.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

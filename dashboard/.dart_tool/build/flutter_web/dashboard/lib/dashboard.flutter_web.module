@@ -1,0 +1,1 @@
+{"p":["dashboard","lib/dashboard.dart"],"s":[["dashboard","lib/dashboard.dart"],["dashboard","lib/drawer.dart"],["dashboard","lib/login/auth.dart"]],"d":[["dashboard","lib/widgets/finance.dart"],["dashboard","lib/widgets/rpicture.dart"],["firebase","lib/firebase.dart"],["firebase","lib/firestore.dart"],["flutter","lib/material.dart"]],"m":false,"is":true,"pf":"flutter_web"}
